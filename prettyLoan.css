@@ -7,8 +7,8 @@ body {
     width: 600px;
     margin: 10px auto;
     padding: 5px 20px;
-    background: #F00875;
-    border: 1px solid #000000;
+    background: #8cb4ff;
+    border: 5px solid #000000;
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
 }
 
 p {
-	color: gold;
+	color: rgb(243, 186, 105);
 	font-weight: bold;
 	text-align: center;
 }
