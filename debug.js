@@ -25,7 +25,7 @@ var calculateIncome = function ()
     			floatTaxRate = 2;
             }
     	}
-    } 
+    }
     else
     {
     	if (floatAnnualIncome <= 30000)
@@ -45,7 +45,7 @@ var calculateIncome = function ()
         }
 }
 
-	floatAnnualTax = floatAnnualIncome * (floatTaxRate/100);
+	floatAnnualTax = floatAnnualIncome * (floatTaxRate);
 
 	$("annualTax").value = floatAnnualTax;
 
