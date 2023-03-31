@@ -101,3 +101,4 @@ function doWhileFunction()
 window.onload = function()
 {
     $("doIt").onclick = doStuffComputer;
+}
